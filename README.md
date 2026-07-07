@@ -531,12 +531,6 @@ uvicorn main:app --reload --port 8001
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 ## 🙌 Contributing
 
 Contributions welcome! Areas of interest:
